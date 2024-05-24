@@ -5,11 +5,8 @@
 # Types of Networking
 <P>There are different types of networks depending on their size and purpose. Here's a breakdown of the most common ones:
 
-Local Area Network (LAN):<h6This is a network that connects devices in a limited geographical area, like a home, school, or office building. LANs are typically high-speed and secure, and they're used for sharing resources like printers, files, and internet access.
+</h6>Local Area Network (LAN):</h6>This is a network that connects devices in a limited geographical area, like a home, school, or office building. LANs are typically high-speed and secure, and they're used for sharing resources like printers, files, and internet access.
 
-pen_spark
-Opens in a new window
-<img> https://medium.com/@sanoj.sudo/what-is-vpn-or-virtual-private-network-9d6917d199ed</>
 Local Area Network (LAN)
 
 Wide Area Network (WAN):WANs span a much larger geographical distance than LANs,  often connecting multiple LANs over long distances. They can cover entire cities, states, or even countries. WANs are used to connect businesses, government agencies, and other organizations that need to communicate over long distances.
